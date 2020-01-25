@@ -27,7 +27,7 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-17f816838eb9a4491559.js"
+    "url": "webpack-runtime-c52c3eaaeb7bc6f397bb.js"
   },
   {
     "url": "styles.08a65b48b84d06820528.css"
@@ -42,14 +42,18 @@ self.__precacheManifest = [
     "url": "netlify-identity-widget-171ffe191486f421f700.js"
   },
   {
-    "url": "app-c982719e720c516a848f.js"
+    "url": "app-4e92c06178738e772145.js"
   },
   {
     "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-1d9b46fa5d1abe87c6c2.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "8b2cf91da9b8d2cad34c9fa02d7d9d8d"
+    "revision": "116afd2ff0b1df08b9e7509af6710ca4"
+  },
+  {
+    "url": "page-data/offline-plugin-app-shell-fallback/page-data.json",
+    "revision": "c355c8040c47a63bfb3360e4b7cb6553"
   },
   {
     "url": "manifest.json",
@@ -145,12 +149,12 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   lastNavigationRequest = event.request.url
 
   let { pathname } = new URL(event.request.url)
-  pathname = pathname.replace(new RegExp(`^`), ``)
+  pathname = pathname.replace(new RegExp(`^/sport129.github.io`), ``)
 
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/app-c982719e720c516a848f.js`))) {
+  if (!resources || !(await caches.match(`/sport129.github.io/app-4e92c06178738e772145.js`))) {
     return await fetch(event.request)
   }
 
@@ -163,7 +167,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
     }
   }
 
-  const offlineShell = `/offline-plugin-app-shell-fallback/index.html`
+  const offlineShell = `/sport129.github.io/offline-plugin-app-shell-fallback/index.html`
   const offlineShellWithKey = workbox.precaching.getCacheKeyForURL(offlineShell)
   return await caches.match(offlineShellWithKey)
 })

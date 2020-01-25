@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Personal Blog Daniel Rosendo]]></title><description><![CDATA[Seja Apaixonado por aquilo que você faz]]></description><link>http://sport129.github.io/</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 25 Jan 2020 01:34:37 GMT</lastBuildDate><item><title><![CDATA[É Possível Programar Magento 2 no Vscode?]]></title><description><![CDATA[Quando você entra no mundo da programação, em diversos sites de cursos, do básico ou ao avançado, sempre se fala, o melhor editor, ou até podemos chamar de IDE, é o vscode (O filho bom da Microsoft). Então a partir daí, todos os seus projetos são feitos no vscode, você aprende todos os snippets, aprende todas as teclas de atalho, vira fera na ferramenta, porém sempre existe algo que pode quebrar sua zona de conforto.]]></description><link>http://sport129.github.io//posts/programmer-magent-in-vscode</link><guid isPermaLink="false">http://sport129.github.io//posts/programmer-magent-in-vscode</guid><pubDate>Thu, 23 Jan 2020 22:12:00 GMT</pubDate><content:encoded>&lt;p&gt;Quando você entra no mundo da programação, em diversos sites de cursos, do básico ou ao avançado, sempre se fala, o melhor
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Personal Blog Daniel Rosendo]]></title><description><![CDATA[Seja Apaixonado por aquilo que você faz]]></description><link>http://sport129.github.io/</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 25 Jan 2020 01:38:24 GMT</lastBuildDate><item><title><![CDATA[É Possível Programar Magento 2 no Vscode?]]></title><description><![CDATA[Quando você entra no mundo da programação, em diversos sites de cursos, do básico ou ao avançado, sempre se fala, o melhor editor, ou até podemos chamar de IDE, é o vscode (O filho bom da Microsoft). Então a partir daí, todos os seus projetos são feitos no vscode, você aprende todos os snippets, aprende todas as teclas de atalho, vira fera na ferramenta, porém sempre existe algo que pode quebrar sua zona de conforto.]]></description><link>http://sport129.github.io//posts/programmer-magent-in-vscode</link><guid isPermaLink="false">http://sport129.github.io//posts/programmer-magent-in-vscode</guid><pubDate>Thu, 23 Jan 2020 22:12:00 GMT</pubDate><content:encoded>&lt;p&gt;Quando você entra no mundo da programação, em diversos sites de cursos, do básico ou ao avançado, sempre se fala, o melhor
 editor, ou até podemos chamar de IDE, é o vscode (O filho bom da Microsoft). Então a partir daí, todos os seus projetos são feitos no vscode, você aprende todos os snippets, aprende todas as teclas de atalho, vira fera na ferramenta, porém sempre existe algo que pode quebrar sua zona de conforto.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
@@ -6,7 +6,7 @@ editor, ou até podemos chamar de IDE, é o vscode (O filho bom da Microsoft). E
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/229e7feac3f1f453894d86a9513e02d5/faad0/01.jpg&quot;
+    href=&quot;/sport129.github.io/static/229e7feac3f1f453894d86a9513e02d5/faad0/01.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -17,22 +17,22 @@ editor, ou até podemos chamar de IDE, é o vscode (O filho bom da Microsoft). E
   &gt;&lt;/span&gt;
   &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/229e7feac3f1f453894d86a9513e02d5/8ac56/01.webp 240w,
-/static/229e7feac3f1f453894d86a9513e02d5/d3be9/01.webp 480w,
-/static/229e7feac3f1f453894d86a9513e02d5/26073/01.webp 739w&quot;
+          srcset=&quot;/sport129.github.io/static/229e7feac3f1f453894d86a9513e02d5/8ac56/01.webp 240w,
+/sport129.github.io/static/229e7feac3f1f453894d86a9513e02d5/d3be9/01.webp 480w,
+/sport129.github.io/static/229e7feac3f1f453894d86a9513e02d5/26073/01.webp 739w&quot;
           sizes=&quot;(max-width: 739px) 100vw, 739px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/229e7feac3f1f453894d86a9513e02d5/09b79/01.jpg 240w,
-/static/229e7feac3f1f453894d86a9513e02d5/7cc5e/01.jpg 480w,
-/static/229e7feac3f1f453894d86a9513e02d5/faad0/01.jpg 739w&quot;
+          srcset=&quot;/sport129.github.io/static/229e7feac3f1f453894d86a9513e02d5/09b79/01.jpg 240w,
+/sport129.github.io/static/229e7feac3f1f453894d86a9513e02d5/7cc5e/01.jpg 480w,
+/sport129.github.io/static/229e7feac3f1f453894d86a9513e02d5/faad0/01.jpg 739w&quot;
           sizes=&quot;(max-width: 739px) 100vw, 739px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/static/229e7feac3f1f453894d86a9513e02d5/faad0/01.jpg&quot;
+          src=&quot;/sport129.github.io/static/229e7feac3f1f453894d86a9513e02d5/faad0/01.jpg&quot;
           alt=&quot;Saindo da Zona de Conforto&quot;
           title=&quot;Saindo da Zona de Conforto&quot;
           loading=&quot;lazy&quot;
@@ -48,7 +48,7 @@ editor, ou até podemos chamar de IDE, é o vscode (O filho bom da Microsoft). E
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/455e84700bbb4a4ac1540b2c1e3f9022/72e01/02.jpg&quot;
+    href=&quot;/sport129.github.io/static/455e84700bbb4a4ac1540b2c1e3f9022/72e01/02.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -59,24 +59,24 @@ editor, ou até podemos chamar de IDE, é o vscode (O filho bom da Microsoft). E
   &gt;&lt;/span&gt;
   &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/455e84700bbb4a4ac1540b2c1e3f9022/8ac56/02.webp 240w,
-/static/455e84700bbb4a4ac1540b2c1e3f9022/d3be9/02.webp 480w,
-/static/455e84700bbb4a4ac1540b2c1e3f9022/e46b2/02.webp 960w,
-/static/455e84700bbb4a4ac1540b2c1e3f9022/a9a89/02.webp 1024w&quot;
+          srcset=&quot;/sport129.github.io/static/455e84700bbb4a4ac1540b2c1e3f9022/8ac56/02.webp 240w,
+/sport129.github.io/static/455e84700bbb4a4ac1540b2c1e3f9022/d3be9/02.webp 480w,
+/sport129.github.io/static/455e84700bbb4a4ac1540b2c1e3f9022/e46b2/02.webp 960w,
+/sport129.github.io/static/455e84700bbb4a4ac1540b2c1e3f9022/a9a89/02.webp 1024w&quot;
           sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/455e84700bbb4a4ac1540b2c1e3f9022/09b79/02.jpg 240w,
-/static/455e84700bbb4a4ac1540b2c1e3f9022/7cc5e/02.jpg 480w,
-/static/455e84700bbb4a4ac1540b2c1e3f9022/6a068/02.jpg 960w,
-/static/455e84700bbb4a4ac1540b2c1e3f9022/72e01/02.jpg 1024w&quot;
+          srcset=&quot;/sport129.github.io/static/455e84700bbb4a4ac1540b2c1e3f9022/09b79/02.jpg 240w,
+/sport129.github.io/static/455e84700bbb4a4ac1540b2c1e3f9022/7cc5e/02.jpg 480w,
+/sport129.github.io/static/455e84700bbb4a4ac1540b2c1e3f9022/6a068/02.jpg 960w,
+/sport129.github.io/static/455e84700bbb4a4ac1540b2c1e3f9022/72e01/02.jpg 1024w&quot;
           sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/static/455e84700bbb4a4ac1540b2c1e3f9022/6a068/02.jpg&quot;
+          src=&quot;/sport129.github.io/static/455e84700bbb4a4ac1540b2c1e3f9022/6a068/02.jpg&quot;
           alt=&quot;Ta pegando fogo bichooo&quot;
           title=&quot;Ta pegando fogo bichooo&quot;
           loading=&quot;lazy&quot;
@@ -92,7 +92,7 @@ editor, ou até podemos chamar de IDE, é o vscode (O filho bom da Microsoft). E
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/7e3b55b5d131c129116ffee9f5d9af1f/41099/03.jpg&quot;
+    href=&quot;/sport129.github.io/static/7e3b55b5d131c129116ffee9f5d9af1f/41099/03.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -103,22 +103,22 @@ editor, ou até podemos chamar de IDE, é o vscode (O filho bom da Microsoft). E
   &gt;&lt;/span&gt;
   &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/7e3b55b5d131c129116ffee9f5d9af1f/8ac56/03.webp 240w,
-/static/7e3b55b5d131c129116ffee9f5d9af1f/d3be9/03.webp 480w,
-/static/7e3b55b5d131c129116ffee9f5d9af1f/b0a15/03.webp 500w&quot;
+          srcset=&quot;/sport129.github.io/static/7e3b55b5d131c129116ffee9f5d9af1f/8ac56/03.webp 240w,
+/sport129.github.io/static/7e3b55b5d131c129116ffee9f5d9af1f/d3be9/03.webp 480w,
+/sport129.github.io/static/7e3b55b5d131c129116ffee9f5d9af1f/b0a15/03.webp 500w&quot;
           sizes=&quot;(max-width: 500px) 100vw, 500px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/7e3b55b5d131c129116ffee9f5d9af1f/09b79/03.jpg 240w,
-/static/7e3b55b5d131c129116ffee9f5d9af1f/7cc5e/03.jpg 480w,
-/static/7e3b55b5d131c129116ffee9f5d9af1f/41099/03.jpg 500w&quot;
+          srcset=&quot;/sport129.github.io/static/7e3b55b5d131c129116ffee9f5d9af1f/09b79/03.jpg 240w,
+/sport129.github.io/static/7e3b55b5d131c129116ffee9f5d9af1f/7cc5e/03.jpg 480w,
+/sport129.github.io/static/7e3b55b5d131c129116ffee9f5d9af1f/41099/03.jpg 500w&quot;
           sizes=&quot;(max-width: 500px) 100vw, 500px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/static/7e3b55b5d131c129116ffee9f5d9af1f/41099/03.jpg&quot;
+          src=&quot;/sport129.github.io/static/7e3b55b5d131c129116ffee9f5d9af1f/41099/03.jpg&quot;
           alt=&quot;Música do Naruto de Fundo&quot;
           title=&quot;Música do Naruto de Fundo&quot;
           loading=&quot;lazy&quot;
@@ -134,7 +134,7 @@ editor, ou até podemos chamar de IDE, é o vscode (O filho bom da Microsoft). E
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/7fca77bb0b15518a52736e38df307dac/8f61b/05.jpg&quot;
+    href=&quot;/sport129.github.io/static/7fca77bb0b15518a52736e38df307dac/8f61b/05.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -145,20 +145,20 @@ editor, ou até podemos chamar de IDE, é o vscode (O filho bom da Microsoft). E
   &gt;&lt;/span&gt;
   &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/7fca77bb0b15518a52736e38df307dac/8ac56/05.webp 240w,
-/static/7fca77bb0b15518a52736e38df307dac/918eb/05.webp 355w&quot;
+          srcset=&quot;/sport129.github.io/static/7fca77bb0b15518a52736e38df307dac/8ac56/05.webp 240w,
+/sport129.github.io/static/7fca77bb0b15518a52736e38df307dac/918eb/05.webp 355w&quot;
           sizes=&quot;(max-width: 355px) 100vw, 355px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/7fca77bb0b15518a52736e38df307dac/09b79/05.jpg 240w,
-/static/7fca77bb0b15518a52736e38df307dac/8f61b/05.jpg 355w&quot;
+          srcset=&quot;/sport129.github.io/static/7fca77bb0b15518a52736e38df307dac/09b79/05.jpg 240w,
+/sport129.github.io/static/7fca77bb0b15518a52736e38df307dac/8f61b/05.jpg 355w&quot;
           sizes=&quot;(max-width: 355px) 100vw, 355px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/static/7fca77bb0b15518a52736e38df307dac/8f61b/05.jpg&quot;
+          src=&quot;/sport129.github.io/static/7fca77bb0b15518a52736e38df307dac/8f61b/05.jpg&quot;
           alt=&quot;Stress Mode On&quot;
           title=&quot;Stress Mode On&quot;
           loading=&quot;lazy&quot;
@@ -174,7 +174,7 @@ editor, ou até podemos chamar de IDE, é o vscode (O filho bom da Microsoft). E
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/ac6726ecb57972feb534590afbbe76f3/e17e5/06.png&quot;
+    href=&quot;/sport129.github.io/static/ac6726ecb57972feb534590afbbe76f3/e17e5/06.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -185,20 +185,20 @@ editor, ou até podemos chamar de IDE, é o vscode (O filho bom da Microsoft). E
   &gt;&lt;/span&gt;
   &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/ac6726ecb57972feb534590afbbe76f3/8ac56/06.webp 240w,
-/static/ac6726ecb57972feb534590afbbe76f3/7f61c/06.webp 400w&quot;
+          srcset=&quot;/sport129.github.io/static/ac6726ecb57972feb534590afbbe76f3/8ac56/06.webp 240w,
+/sport129.github.io/static/ac6726ecb57972feb534590afbbe76f3/7f61c/06.webp 400w&quot;
           sizes=&quot;(max-width: 400px) 100vw, 400px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/ac6726ecb57972feb534590afbbe76f3/8ff5a/06.png 240w,
-/static/ac6726ecb57972feb534590afbbe76f3/e17e5/06.png 400w&quot;
+          srcset=&quot;/sport129.github.io/static/ac6726ecb57972feb534590afbbe76f3/8ff5a/06.png 240w,
+/sport129.github.io/static/ac6726ecb57972feb534590afbbe76f3/e17e5/06.png 400w&quot;
           sizes=&quot;(max-width: 400px) 100vw, 400px&quot;
           type=&quot;image/png&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/static/ac6726ecb57972feb534590afbbe76f3/e17e5/06.png&quot;
+          src=&quot;/sport129.github.io/static/ac6726ecb57972feb534590afbbe76f3/e17e5/06.png&quot;
           alt=&quot;Super Happy&quot;
           title=&quot;Super Happy&quot;
           loading=&quot;lazy&quot;
