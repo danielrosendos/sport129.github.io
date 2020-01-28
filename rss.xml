@@ -1,4 +1,329 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Personal Blog Daniel Rosendo]]></title><description><![CDATA[Seja Apaixonado por aquilo que você faz]]></description><link>http://sport129.github.io/</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 25 Jan 2020 01:43:56 GMT</lastBuildDate><item><title><![CDATA[É Possível Programar Magento 2 no Vscode?]]></title><description><![CDATA[Quando você entra no mundo da programação, em diversos sites de cursos, do básico ou ao avançado, sempre se fala, o melhor editor, ou até podemos chamar de IDE, é o vscode (O filho bom da Microsoft). Então a partir daí, todos os seus projetos são feitos no vscode, você aprende todos os snippets, aprende todas as teclas de atalho, vira fera na ferramenta, porém sempre existe algo que pode quebrar sua zona de conforto.]]></description><link>http://sport129.github.io//posts/programmer-magent-in-vscode</link><guid isPermaLink="false">http://sport129.github.io//posts/programmer-magent-in-vscode</guid><pubDate>Thu, 23 Jan 2020 22:12:00 GMT</pubDate><content:encoded>&lt;p&gt;Quando você entra no mundo da programação, em diversos sites de cursos, do básico ou ao avançado, sempre se fala, o melhor
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Personal Blog Daniel Rosendo]]></title><description><![CDATA[Seja Apaixonado por aquilo que você faz]]></description><link>http://sport129.github.io/</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 28 Jan 2020 01:44:26 GMT</lastBuildDate><item><title><![CDATA[5 Motivos do Porque eu Amo você <3]]></title><description><![CDATA[Você é muito Especial para mim.]]></description><link>http://sport129.github.io//posts/5-motivos-do-pq-amo-vc</link><guid isPermaLink="false">http://sport129.github.io//posts/5-motivos-do-pq-amo-vc</guid><pubDate>Tue, 28 Jan 2020 22:12:00 GMT</pubDate><content:encoded>&lt;p&gt;Eu amo você de tantas formas, que talvez 5 motivos não sejam suficientes par poder demonstrar isso. Tudo foi escrito com mt amor e carinho para você, pois você merece, esse é seu dia, e é algo que talvez seja marcante para sua vida.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/sport129.github.io/static/e7c970d75fd47c740193113dc80a3818/b2234/07.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAME/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/9oADAMBAAIQAxAAAAGa+C3VrB//xAAbEAEAAgIDAAAAAAAAAAAAAAABAAMCEiEiI//aAAgBAQABBQIp6GrgVYw4rXxSf//EABcRAAMBAAAAAAAAAAAAAAAAAAABEQL/2gAIAQMBAT8BeYiH/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAIBAAAQEIAwAAAAAAAAAAAAAAAAEQERIhMTJRgZGhsf/aAAgBAQAGPwJackCSX0v6Zsfk/8QAGhABAAMBAQEAAAAAAAAAAAAAAQARITFBUf/aAAgBAQABPyHCUN91Cek/a2NFm7+p0nUjCR8QlEaBZ//aAAwDAQACAAMAAAAQ1M//xAAXEQADAQAAAAAAAAAAAAAAAAAAARFB/9oACAEDAQE/EJTeln//xAAXEQADAQAAAAAAAAAAAAAAAAAAASER/9oACAECAQE/EEppT//EABwQAQADAAIDAAAAAAAAAAAAAAEAESExQVGR8P/aAAgBAQABPxAaGbUOA4olxHA3KPWM4B8g5vqEbFKvbKdCKNbfzAwLR5UJ/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/sport129.github.io/static/e7c970d75fd47c740193113dc80a3818/8ac56/07.webp 240w,
+/sport129.github.io/static/e7c970d75fd47c740193113dc80a3818/d3be9/07.webp 480w,
+/sport129.github.io/static/e7c970d75fd47c740193113dc80a3818/e46b2/07.webp 960w,
+/sport129.github.io/static/e7c970d75fd47c740193113dc80a3818/f992d/07.webp 1440w,
+/sport129.github.io/static/e7c970d75fd47c740193113dc80a3818/882b9/07.webp 1920w,
+/sport129.github.io/static/e7c970d75fd47c740193113dc80a3818/5b917/07.webp 2592w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/sport129.github.io/static/e7c970d75fd47c740193113dc80a3818/09b79/07.jpg 240w,
+/sport129.github.io/static/e7c970d75fd47c740193113dc80a3818/7cc5e/07.jpg 480w,
+/sport129.github.io/static/e7c970d75fd47c740193113dc80a3818/6a068/07.jpg 960w,
+/sport129.github.io/static/e7c970d75fd47c740193113dc80a3818/644c5/07.jpg 1440w,
+/sport129.github.io/static/e7c970d75fd47c740193113dc80a3818/0f98f/07.jpg 1920w,
+/sport129.github.io/static/e7c970d75fd47c740193113dc80a3818/b2234/07.jpg 2592w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/sport129.github.io/static/e7c970d75fd47c740193113dc80a3818/6a068/07.jpg&quot;
+          alt=&quot;Dia de uma viagem especial&quot;
+          title=&quot;Dia de uma viagem especial&quot;
+          loading=&quot;lazy&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h1 id=&quot;1---eu-te-amo-porque-você-sempre-me-abraça-apertado-quando-preciso&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#1---eu-te-amo-porque-voc%C3%AA-sempre-me-abra%C3%A7a-apertado-quando-preciso&quot; aria-label=&quot;1   eu te amo porque você sempre me abraça apertado quando preciso permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;strong&gt;1 - Eu te amo porque você sempre me abraça apertado quando preciso.&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 959px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/sport129.github.io/static/c8010cc9767a3f7448f412527517e1b7/9100a/08.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.47236704900936%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFBAH/xAAXAQEBAQEAAAAAAAAAAAAAAAACAwAB/9oADAMBAAIQAxAAAAGVy9JCQOGa+N2qNJZuO7//xAAaEAEBAAMBAQAAAAAAAAAAAAABAgAQERID/9oACAEBAAEFAqVwNVAwy+vIYPT6Qy9XI3//xAAWEQEBAQAAAAAAAAAAAAAAAAASABD/2gAIAQMBAT8BEd//xAAYEQACAwAAAAAAAAAAAAAAAAAAAQIQEv/aAAgBAgEBPwFSNX//xAAbEAABBAMAAAAAAAAAAAAAAAAAARAREiAhMv/aAAgBAQAGPwJ4jRV7ocYf/8QAHBABAAIBBQAAAAAAAAAAAAAAAQARIRAxQVFh/9oACAEBAAE/IaW7riJpRooYJgG/cX07+6QxteyOYJ9Y8TiUE//aAAwDAQACAAMAAAAQy8T8/8QAFxEBAQEBAAAAAAAAAAAAAAAAAAERQf/aAAgBAwEBPxCm3G1//8QAFhEBAQEAAAAAAAAAAAAAAAAAABEx/9oACAECAQE/EBDFf//EAB0QAQADAAIDAQAAAAAAAAAAAAEAESExQVFhgcH/2gAIAQEAAT8QryQXyPcsHTBrF0gDAAJkwT8iJNxyp2YFy0Yr5HcoBKcFLGrsQdHUcgAT/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/sport129.github.io/static/c8010cc9767a3f7448f412527517e1b7/8ac56/08.webp 240w,
+/sport129.github.io/static/c8010cc9767a3f7448f412527517e1b7/d3be9/08.webp 480w,
+/sport129.github.io/static/c8010cc9767a3f7448f412527517e1b7/1bae5/08.webp 959w&quot;
+          sizes=&quot;(max-width: 959px) 100vw, 959px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/sport129.github.io/static/c8010cc9767a3f7448f412527517e1b7/09b79/08.jpg 240w,
+/sport129.github.io/static/c8010cc9767a3f7448f412527517e1b7/7cc5e/08.jpg 480w,
+/sport129.github.io/static/c8010cc9767a3f7448f412527517e1b7/9100a/08.jpg 959w&quot;
+          sizes=&quot;(max-width: 959px) 100vw, 959px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/sport129.github.io/static/c8010cc9767a3f7448f412527517e1b7/9100a/08.jpg&quot;
+          alt=&quot;Abraço Apertado&quot;
+          title=&quot;Abraço Apertado&quot;
+          loading=&quot;lazy&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Sempre eu amo seus abraços, me sinto confortável nele, ele me acalma, gostaria de ter esse abraço todos os dias, pois ele me conforta, me deixa feliz e me deixa bem. &lt;/p&gt;
+&lt;h1 id=&quot;2---eu-te-amo-porque-você-sempre-está-disposto-a-me-ouvir-mesmo-quando-não-estou-disposta-a-falar&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#2---eu-te-amo-porque-voc%C3%AA-sempre-est%C3%A1-disposto-a-me-ouvir-mesmo-quando-n%C3%A3o-estou-disposta-a-falar&quot; aria-label=&quot;2   eu te amo porque você sempre está disposto a me ouvir mesmo quando não estou disposta a falar permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;strong&gt;2 - Eu te amo porque você sempre está disposto a me ouvir, mesmo quando não estou disposta a falar.&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/sport129.github.io/static/49bcac28f77fc2d82bceb551831610b0/28062/09.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAIDBQT/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAwEC/9oADAMBAAIQAxAAAAG2ME6bDmdzygXhv//EABwQAAMAAgMBAAAAAAAAAAAAAAECAxESAAQTMf/aAAgBAQABBQLsfZld5uCr49rBMwMwhkNvIHkkwP/EABURAQEAAAAAAAAAAAAAAAAAAAEg/9oACAEDAQE/AWP/xAAVEQEBAAAAAAAAAAAAAAAAAAABIP/aAAgBAgEBPwEj/8QAGhAAAwEBAQEAAAAAAAAAAAAAAAERITEScf/aAAgBAQAGPwK3prn1mOjrUvReZwxj1i1j19P/xAAaEAEBAQEBAQEAAAAAAAAAAAABEQAhUTFh/9oACAEBAAE/IQDCj9mlcMo5phHprUgirwz3SG9Ck97Pd+lLjq/GYRGH/9oADAMBAAIAAwAAABCTL/z/xAAYEQADAQEAAAAAAAAAAAAAAAABESEAEP/aAAgBAwEBPxCglegTf//EABcRAQEBAQAAAAAAAAAAAAAAAAEhABD/2gAIAQIBAT8QirOrv//EAB8QAQEAAgIBBQAAAAAAAAAAAAERACExcWFBUZGhsf/aAAgBAQABPxCmbHThOcAzHQE67wCBKbHCnphFbzZ9ZAUwG/1Ock+lKgYLikjUikt6xTdJSJZ8YcmV6nseM//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/sport129.github.io/static/49bcac28f77fc2d82bceb551831610b0/8ac56/09.webp 240w,
+/sport129.github.io/static/49bcac28f77fc2d82bceb551831610b0/d3be9/09.webp 480w,
+/sport129.github.io/static/49bcac28f77fc2d82bceb551831610b0/e46b2/09.webp 960w,
+/sport129.github.io/static/49bcac28f77fc2d82bceb551831610b0/f992d/09.webp 1440w,
+/sport129.github.io/static/49bcac28f77fc2d82bceb551831610b0/882b9/09.webp 1920w,
+/sport129.github.io/static/49bcac28f77fc2d82bceb551831610b0/4b7c9/09.webp 2044w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/sport129.github.io/static/49bcac28f77fc2d82bceb551831610b0/09b79/09.jpg 240w,
+/sport129.github.io/static/49bcac28f77fc2d82bceb551831610b0/7cc5e/09.jpg 480w,
+/sport129.github.io/static/49bcac28f77fc2d82bceb551831610b0/6a068/09.jpg 960w,
+/sport129.github.io/static/49bcac28f77fc2d82bceb551831610b0/644c5/09.jpg 1440w,
+/sport129.github.io/static/49bcac28f77fc2d82bceb551831610b0/0f98f/09.jpg 1920w,
+/sport129.github.io/static/49bcac28f77fc2d82bceb551831610b0/28062/09.jpg 2044w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/sport129.github.io/static/49bcac28f77fc2d82bceb551831610b0/6a068/09.jpg&quot;
+          alt=&quot;Coisa Fofa&quot;
+          title=&quot;Coisa Fofa&quot;
+          loading=&quot;lazy&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Mesmo nos dias que eu me sinto mais fechado, você tenta me escutar, pede para eu falar o que eu sinto, você sempre está lá para me apoioar, conversar e me escutar. &lt;/p&gt;
+&lt;h1 id=&quot;3---eu-te-amo-porque-estar-contigo-me-faz-querer-ser-uma-pessoa-melhor&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#3---eu-te-amo-porque-estar-contigo-me-faz-querer-ser-uma-pessoa-melhor&quot; aria-label=&quot;3   eu te amo porque estar contigo me faz querer ser uma pessoa melhor permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;strong&gt;3 - Eu te amo porque estar contigo me faz querer ser uma pessoa melhor.&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 784px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/sport129.github.io/static/50e392d60da370c6dc6907c40819ddc4/caf7d/10.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 134.6938775510204%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQCAwUB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/9oADAMBAAIQAxAAAAFueO2NAuVG3S6KBpGdf//EAB0QAAMAAgIDAAAAAAAAAAAAAAECAxESABMhIzP/2gAIAQEAAQUCoBzfEno4alWLJQMjo22uWVfWKMQ016z4jL5//8QAFhEBAQEAAAAAAAAAAAAAAAAAABEQ/9oACAEDAQE/AUTP/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/Acqv/8QAHRAAAgICAwEAAAAAAAAAAAAAAAECIRExEBJBUf/aAAgBAQAGPwK4ZE7KlI8EpSrhZ0PqtFDrwwvhE//EAB0QAQADAAMAAwAAAAAAAAAAAAEAESExQXFhgdH/2gAIAQEAAT8hsOlwb4grbeX3HFQ9j5tZEaYz2P1DnGtiXu2+oVzXywNRgnEH5mmTqf/aAAwDAQACAAMAAAAQhz9w/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAEhEBH/2gAIAQMBAT8QkGFxn//EABcRAQEBAQAAAAAAAAAAAAAAAAEAEBH/2gAIAQIBAT8QhnrP/8QAIBABAQACAgEFAQAAAAAAAAAAAREAITFBUWFxgZHB4f/aAAgBAQABPxC8tYGMnRnnsALPv+4FM9xdwqkO+vnI5UEEGH+41aNatMGKkRnjEVGKK6K8es8Y4wBJwv1iZRW9vWGziCGAACpVTnP/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/sport129.github.io/static/50e392d60da370c6dc6907c40819ddc4/8ac56/10.webp 240w,
+/sport129.github.io/static/50e392d60da370c6dc6907c40819ddc4/d3be9/10.webp 480w,
+/sport129.github.io/static/50e392d60da370c6dc6907c40819ddc4/2a3bb/10.webp 784w&quot;
+          sizes=&quot;(max-width: 784px) 100vw, 784px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/sport129.github.io/static/50e392d60da370c6dc6907c40819ddc4/09b79/10.jpg 240w,
+/sport129.github.io/static/50e392d60da370c6dc6907c40819ddc4/7cc5e/10.jpg 480w,
+/sport129.github.io/static/50e392d60da370c6dc6907c40819ddc4/caf7d/10.jpg 784w&quot;
+          sizes=&quot;(max-width: 784px) 100vw, 784px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/sport129.github.io/static/50e392d60da370c6dc6907c40819ddc4/caf7d/10.jpg&quot;
+          alt=&quot;Olha tu num faz raiva nao&quot;
+          title=&quot;Olha tu num faz raiva nao&quot;
+          loading=&quot;lazy&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Você sempre está la, me xingando ou não, mas está sempre querendo que eu seja melhor, que eu sempre melhore, que eu nunca seja alguém para baixo.&lt;/p&gt;
+&lt;h1 id=&quot;4---eu-te-amo-porque-quando-você-sorri-tem-aquelas-marquinhas-nos-cantos-dos-olhos-que-me-faz-sorrir-e-pensar-na-sorte-que-tenho-&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#4---eu-te-amo-porque-quando-voc%C3%AA-sorri-tem-aquelas-marquinhas-nos-cantos-dos-olhos-que-me-faz-sorrir-e-pensar-na-sorte-que-tenho-&quot; aria-label=&quot;4   eu te amo porque quando você sorri tem aquelas marquinhas nos cantos dos olhos que me faz sorrir e pensar na sorte que tenho  permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;**4 - Eu te amo porque quando você sorri tem aquelas marquinhas nos cantos dos olhos que me faz sorrir e pensar na sorte que tenho. **&lt;/h1&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/sport129.github.io/static/af0edcccee74d92166a620acbf9305a3/93719/11.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDBAX/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQP/2gAMAwEAAhADEAAAAeW96xZRg7f/xAAbEAACAwADAAAAAAAAAAAAAAABAgADERIjMv/aAAgBAQABBQLJhiM3Gsd1wAi+f//EABcRAAMBAAAAAAAAAAAAAAAAAAABEQP/2gAIAQMBAT8BjlFif//EABYRAQEBAAAAAAAAAAAAAAAAAAABEv/aAAgBAgEBPwFqv//EABkQAAMAAwAAAAAAAAAAAAAAAAABEQIhQf/aAAgBAQAGPwJMrNE5DIR//8QAGhABAAMAAwAAAAAAAAAAAAAAAQARIUFxof/aAAgBAQABPyGwBGuqiF1Q7gIRdOQSnJuzzT//2gAMAwEAAgADAAAAECgP/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARYf/aAAgBAwEBPxB5UKDt/8QAFhEBAQEAAAAAAAAAAAAAAAAAEQAB/9oACAECAQE/EMG1r//EABsQAQADAQADAAAAAAAAAAAAAAEAESExQYHR/9oACAEBAAE/EGgvlLiLNDMo9TXEVylsDbYWLOH2OhRJ01GE4kf/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/sport129.github.io/static/af0edcccee74d92166a620acbf9305a3/8ac56/11.webp 240w,
+/sport129.github.io/static/af0edcccee74d92166a620acbf9305a3/d3be9/11.webp 480w,
+/sport129.github.io/static/af0edcccee74d92166a620acbf9305a3/e46b2/11.webp 960w,
+/sport129.github.io/static/af0edcccee74d92166a620acbf9305a3/f992d/11.webp 1440w,
+/sport129.github.io/static/af0edcccee74d92166a620acbf9305a3/882b9/11.webp 1920w,
+/sport129.github.io/static/af0edcccee74d92166a620acbf9305a3/c67aa/11.webp 4000w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/sport129.github.io/static/af0edcccee74d92166a620acbf9305a3/09b79/11.jpg 240w,
+/sport129.github.io/static/af0edcccee74d92166a620acbf9305a3/7cc5e/11.jpg 480w,
+/sport129.github.io/static/af0edcccee74d92166a620acbf9305a3/6a068/11.jpg 960w,
+/sport129.github.io/static/af0edcccee74d92166a620acbf9305a3/644c5/11.jpg 1440w,
+/sport129.github.io/static/af0edcccee74d92166a620acbf9305a3/0f98f/11.jpg 1920w,
+/sport129.github.io/static/af0edcccee74d92166a620acbf9305a3/93719/11.jpg 4000w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/sport129.github.io/static/af0edcccee74d92166a620acbf9305a3/6a068/11.jpg&quot;
+          alt=&quot;Que sorriso foda meu deus&quot;
+          title=&quot;Que sorriso foda meu deus&quot;
+          loading=&quot;lazy&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Toda vez que você sorrir eu me sinto bem, e vejo que talvez eu esteja fazendo a coisa certa, lhe fazendo bem, esse é o melhor gesto que eu gosto de receber, um sorriso no rosto.&lt;/p&gt;
+&lt;h1 id=&quot;5---eu-te-amo-porque-sei-que-não-importa-o-que-aconteça-eu-posso-contar-contigo-porque-você-sempre-estará-aqui&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#5---eu-te-amo-porque-sei-que-n%C3%A3o-importa-o-que-aconte%C3%A7a-eu-posso-contar-contigo-porque-voc%C3%AA-sempre-estar%C3%A1-aqui&quot; aria-label=&quot;5   eu te amo porque sei que não importa o que aconteça eu posso contar contigo porque você sempre estará aqui permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;strong&gt;5 - Eu te amo porque sei que não importa o que aconteça, eu posso contar contigo, porque você sempre estará aqui.&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/sport129.github.io/static/e655ac4347d6379b74388f4ac9abd7fa/d8983/12.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 74.24242424242425%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAE/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/2gAMAwEAAhADEAAAAdCEIptgkf/EABkQAAMBAQEAAAAAAAAAAAAAAAABAhIRIf/aAAgBAQABBQJMV0bpmeKPRXlf/8QAFhEAAwAAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/AXCI/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAEh/9oACAECAQE/AY1//8QAGBAAAwEBAAAAAAAAAAAAAAAAAAERIRD/2gAIAQEABj8C7Xg7uEiP/8QAGhAAAwEBAQEAAAAAAAAAAAAAAAERMSFR0f/aAAgBAQABPyEUrLw2YbZIPzX6UYiqen//2gAMAwEAAgADAAAAEPTf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQBh/9oACAEDAQE/ECiwv//EABcRAAMBAAAAAAAAAAAAAAAAAAABEVH/2gAIAQIBAT8QZ0uj/8QAHBABAAMAAwEBAAAAAAAAAAAAAQARITFRgXGh/9oACAEBAAE/ELyr/YKFXtwSvQ8AkENtFYrvyAnQ6ty3LyDURo1h1k//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/sport129.github.io/static/e655ac4347d6379b74388f4ac9abd7fa/8ac56/12.webp 240w,
+/sport129.github.io/static/e655ac4347d6379b74388f4ac9abd7fa/d3be9/12.webp 480w,
+/sport129.github.io/static/e655ac4347d6379b74388f4ac9abd7fa/e46b2/12.webp 960w,
+/sport129.github.io/static/e655ac4347d6379b74388f4ac9abd7fa/f992d/12.webp 1440w,
+/sport129.github.io/static/e655ac4347d6379b74388f4ac9abd7fa/882b9/12.webp 1920w,
+/sport129.github.io/static/e655ac4347d6379b74388f4ac9abd7fa/feab7/12.webp 4224w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/sport129.github.io/static/e655ac4347d6379b74388f4ac9abd7fa/09b79/12.jpg 240w,
+/sport129.github.io/static/e655ac4347d6379b74388f4ac9abd7fa/7cc5e/12.jpg 480w,
+/sport129.github.io/static/e655ac4347d6379b74388f4ac9abd7fa/6a068/12.jpg 960w,
+/sport129.github.io/static/e655ac4347d6379b74388f4ac9abd7fa/644c5/12.jpg 1440w,
+/sport129.github.io/static/e655ac4347d6379b74388f4ac9abd7fa/0f98f/12.jpg 1920w,
+/sport129.github.io/static/e655ac4347d6379b74388f4ac9abd7fa/d8983/12.jpg 4224w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/sport129.github.io/static/e655ac4347d6379b74388f4ac9abd7fa/6a068/12.jpg&quot;
+          alt=&quot;Que sorriso foda meu deus&quot;
+          title=&quot;Que sorriso foda meu deus&quot;
+          loading=&quot;lazy&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;E essa é a melhor parte, eu sei que posso contar com você para QUALQUER COISA, você NUNCA me abandou, sempre esteve lá, em todos os momento, você sempre esteve ao meu lado, e é isso que eu admiro e você, mesmo eu sendo uma pessoa horrivel, você ainda continua ao meu lado, me apoiando.&lt;/p&gt;
+&lt;p&gt;Esse são alguns pequenos motivos do porque eu amo vc, claro que existem mais, mas talvez esses sejam os mais importantes.&lt;/p&gt;
+&lt;h1 id=&quot;-eu-amo-mt-você-&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-eu-amo-mt-voc%C3%AA-&quot; aria-label=&quot; eu amo mt você  permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;** EU AMO MT VOCÊ **&lt;/h1&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/sport129.github.io/static/4bc69fe51139497697bdcd3bacd2b04d/72e01/13.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.6015625%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAADBf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAA//aAAwDAQACEAMQAAABUBmE9WBZv//EABkQAAMBAQEAAAAAAAAAAAAAAAECAwAEE//aAAgBAQABBQLpqMt6gHomuRxfeQUb/8QAFxEBAAMAAAAAAAAAAAAAAAAAAAESIf/aAAgBAwEBPwGNVf/EABcRAQADAAAAAAAAAAAAAAAAAAACEiL/2gAIAQIBAT8Blld//8QAHBAAAgICAwAAAAAAAAAAAAAAAAECERAhEiJR/9oACAEBAAY/AnHwU+V0beztEpPH/8QAGxAAAwACAwAAAAAAAAAAAAAAAAERIUExUXH/2gAIAQEAAT8htbalhigaMcJTiwcYU+6OglsmFw/VT//aAAwDAQACAAMAAAAQMx//xAAWEQEBAQAAAAAAAAAAAAAAAAAAAXH/2gAIAQMBAT8QiGn/xAAYEQACAwAAAAAAAAAAAAAAAAAAAREhcf/aAAgBAgEBPxBqSZP/xAAbEAEAAgMBAQAAAAAAAAAAAAABABEhMUFRgf/aAAgBAQABPxC/HcEHGypc7iZ0Ql+YKAtWRJsgjjyGD45bubjYlrcfs//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/sport129.github.io/static/4bc69fe51139497697bdcd3bacd2b04d/8ac56/13.webp 240w,
+/sport129.github.io/static/4bc69fe51139497697bdcd3bacd2b04d/d3be9/13.webp 480w,
+/sport129.github.io/static/4bc69fe51139497697bdcd3bacd2b04d/e46b2/13.webp 960w,
+/sport129.github.io/static/4bc69fe51139497697bdcd3bacd2b04d/a9a89/13.webp 1024w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/sport129.github.io/static/4bc69fe51139497697bdcd3bacd2b04d/09b79/13.jpg 240w,
+/sport129.github.io/static/4bc69fe51139497697bdcd3bacd2b04d/7cc5e/13.jpg 480w,
+/sport129.github.io/static/4bc69fe51139497697bdcd3bacd2b04d/6a068/13.jpg 960w,
+/sport129.github.io/static/4bc69fe51139497697bdcd3bacd2b04d/72e01/13.jpg 1024w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/sport129.github.io/static/4bc69fe51139497697bdcd3bacd2b04d/6a068/13.jpg&quot;
+          alt=&quot;Leaozinho&quot;
+          title=&quot;Leaozinho&quot;
+          loading=&quot;lazy&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[É Possível Programar Magento 2 no Vscode?]]></title><description><![CDATA[Quando você entra no mundo da programação, em diversos sites de cursos, do básico ou ao avançado, sempre se fala, o melhor editor, ou até podemos chamar de IDE, é o vscode (O filho bom da Microsoft). Então a partir daí, todos os seus projetos são feitos no vscode, você aprende todos os snippets, aprende todas as teclas de atalho, vira fera na ferramenta, porém sempre existe algo que pode quebrar sua zona de conforto.]]></description><link>http://sport129.github.io//posts/programmer-magent-in-vscode</link><guid isPermaLink="false">http://sport129.github.io//posts/programmer-magent-in-vscode</guid><pubDate>Thu, 23 Jan 2020 22:12:00 GMT</pubDate><content:encoded>&lt;p&gt;Quando você entra no mundo da programação, em diversos sites de cursos, do básico ou ao avançado, sempre se fala, o melhor
 editor, ou até podemos chamar de IDE, é o vscode (O filho bom da Microsoft). Então a partir daí, todos os seus projetos são feitos no vscode, você aprende todos os snippets, aprende todas as teclas de atalho, vira fera na ferramenta, porém sempre existe algo que pode quebrar sua zona de conforto.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
